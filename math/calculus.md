@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Calculus Notes
+title: Calculus
 ---
 
 These are my calculus notes! It includes Calculus I - IV
